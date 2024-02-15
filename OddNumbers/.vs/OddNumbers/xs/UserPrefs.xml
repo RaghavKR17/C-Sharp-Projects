@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{52D07238-F831-4A80-9683-87BD3A20E26E}|Default">
+  <MonoDevelop.Ide.ItemProperties.OddNumbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OddNumbers/Program.cs">
+    <Files>
+      <File FileName="OddNumbers/Program.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OddNumbers" expanded="True">
+            <Node name="OddNumbers" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

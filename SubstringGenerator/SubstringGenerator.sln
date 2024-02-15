@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstringGenerator", "SubstringGenerator\SubstringGenerator.csproj", "{D412BF7F-082A-4B13-9149-E3BE39CB98FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D412BF7F-082A-4B13-9149-E3BE39CB98FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D412BF7F-082A-4B13-9149-E3BE39CB98FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D412BF7F-082A-4B13-9149-E3BE39CB98FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D412BF7F-082A-4B13-9149-E3BE39CB98FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54376B17-F631-49A4-8C11-BA1C2FD31B18}
+	EndGlobalSection
+EndGlobal
